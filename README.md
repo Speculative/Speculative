@@ -18,5 +18,5 @@
   <ul>
     <li>Profile picture: <a href="https://picrew.me/image_maker/684058">Picrew</a></li>
     <li>README mascot: Yuta from <a href="https://www.instagram.com/tonton.friends">Tonton Friends</a></li>
-    <li>Layout <s>stolen</s> borrowed from <a href="https://github.com/chumbud">my pal PJ</a>, who has much better aesthetic taste than me.</li>
+    <li>Layout <s>stolen</s> borrowed from <a href="https://github.com/chumbud">my pal PJ</a>, who has much better aesthetic taste than I.</li>
 </details>
