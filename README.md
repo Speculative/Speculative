@@ -2,7 +2,7 @@
 <p align="right">
   <p align="center">(｡･ ㉨ ･)ﾉﾞ <strong>Oh, hi there!</strong></p>
   <p align="left">
-    They call me Jeff. I'm currently a 🎓 MSCS Student at Columbia Engineering.
+    They call me Jeff. I'm currently a 🎓 PhD Student at the University of Pennsylvania.
     I used to be a Senior Software Engineer for MongoDB and Microsoft.
     I'm a full-stack developer who's worked on React-based UI, client/server data synchronization,
     notifications and alerting infrastructure, and tools to make other developers more effective.
